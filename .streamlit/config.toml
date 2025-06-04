@@ -1,0 +1,9 @@
+[theme]
+primaryColor = "#B71C1C"  # Rojo más oscuro y sofisticado
+backgroundColor = "#FFFFFF"  # Fondo blanco
+secondaryBackgroundColor = "#F5F5F5"  # Gris claro
+textColor = "#212121"  # Texto negro suave
+font = "sans serif"
+
+[server]
+headless = true
