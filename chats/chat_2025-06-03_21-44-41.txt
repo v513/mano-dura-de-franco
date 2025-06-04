@@ -1,0 +1,21 @@
+[USER] [ARCHIVO: chat_2025-06-03_21-30-40.txt]
+[USER] /buscar noticias de milei
+[ASSISTANT] 🔍 No encontré resultados. Prueba con otros términos.
+[USER] /noticias argentina
+[ASSISTANT] 📰 **Últimas noticias:**
+
+- Argentina orders immigration crackdown with decree to 'make Argentina great again' (NPR) - https://www.npr.org/2025/05/15/nx-s1-5399047/argentina-immigration-crackdown-maga-trump-milei
+
+- Why Ancient Sloths Became the Size of Elephants—and Then Vanished (Gizmodo.com) - https://gizmodo.com/how-ancient-sloths-became-the-size-of-elephants-2000606670
+
+- A trove of forgotten Nazi documents is found in Argentina's Supreme Court basement (NPR) - https://www.npr.org/2025/05/12/nx-s1-5395860/nazi-documents-argentina-supreme-court-archives
+
+[ASSISTANT] It looks like you're browsing some news articles about Argentina! 📰
+
+The assistant found three news articles for you:
+
+1. "Argentina orders immigration crackdown with decree to 'make Argentina great again'" from NPR. This article talks about a recent decree aimed at tightening immigration laws in Argentina.
+2. "Why Ancient Sloths Became the Size of Elephants—and Then Vanished" from Gizmodo.com. This article delves into the fascinating history of ancient sloths and their remarkable size.
+3. "A trove of forgotten Nazi documents is found in Argentina's Supreme Court basement" from NPR. This article reports on a surprising discovery of hidden Nazi documents in the basement of the Argentine Supreme Court.
+
+Would you like to know more about any of these topics or search for something else? 🤔

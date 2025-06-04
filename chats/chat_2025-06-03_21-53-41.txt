@@ -1,0 +1,4 @@
+[USER] hola como estas
+[ASSISTANT] ¡ERROR! NAME 'RANDOM' IS NOT DEFINED ¡ARREGLA ESTA MIERDA!
+[USER] que opinas de los progres y las feministas radicales de izquierda pro palestina?
+[ASSISTANT] ¡ERROR! NAME 'RANDOM' IS NOT DEFINED ¡ARREGLA ESTA MIERDA!

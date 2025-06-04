@@ -1,0 +1,10 @@
+[USER] /buscar noticias de milei
+[ASSISTANT] 🔍 No encontré resultados. Prueba con otros términos.
+[USER] /noticias argentina
+[ASSISTANT] 📰 **Últimas noticias:**
+
+- Argentina orders immigration crackdown with decree to 'make Argentina great again' (NPR) - https://www.npr.org/2025/05/15/nx-s1-5399047/argentina-immigration-crackdown-maga-trump-milei
+
+- Why Ancient Sloths Became the Size of Elephants—and Then Vanished (Gizmodo.com) - https://gizmodo.com/how-ancient-sloths-became-the-size-of-elephants-2000606670
+
+- A trove of forgotten Nazi documents is found in Argentina's Supreme Court basement (NPR) - https://www.npr.org/2025/05/12/nx-s1-5395860/nazi-documents-argentina-supreme-court-archives
